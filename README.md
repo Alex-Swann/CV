@@ -38,7 +38,7 @@ A 16-week web development bootcamp which puts emphasis on:
 - Ruby, Javascript, Rails, Node.js
 - Jasmine, Rspec, Capybara, Zombie, Mocha, Sinon
 
-Projects I am proud of:
+My favourite group projects which showcase the current skills and tech I've picked up:
 
 Project title  | Description  									| Development timeframe | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
